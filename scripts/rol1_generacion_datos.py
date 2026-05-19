@@ -1,12 +1,6 @@
 """
 rol1_generacion_datos.py
-========================
-Rol 1 - Diseñador de Datos: Generación de datos sintéticos para el análisis
-del incidente SUNBURST de SolarWinds.
 
-Caso: SolarWinds se enfrenta a SUNBURST (B)
-Curso: Gestión de Datos - Universidad de San Buenaventura
-Marco: DAMA DMBOK
 
 Autor: Rol 1 - Diseñador de Datos
 Descripción:

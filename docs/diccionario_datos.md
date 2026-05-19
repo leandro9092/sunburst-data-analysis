@@ -4,7 +4,7 @@ Este documento técnico detalla las especificaciones relacionales, tipos de dato
 
 ---
 
-## 🗺️ Mapa de Relaciones Lógicas (Arquitectura)
+##  Mapa de Relaciones Lógicas (Arquitectura)
 * `clientes.csv` **(1) ─── (N)** `instalaciones.csv`
 * `versiones_software.csv` **(1) ─── (N)** `instalaciones.csv`
 * `instalaciones.csv` **(1) ─── (N)** `eventos_seguridad.csv`

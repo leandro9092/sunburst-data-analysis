@@ -1,11 +1,5 @@
-# ============================================================
+
 # ROL 3 - INTEGRADOR DE DATOS
-# Proyecto: Análisis del ataque SUNBURST / SolarWinds
-# Materia: Gestión de Datos
-# Descripción: En este script cargo los datos del Rol 1 y Rol 2,
-#              los uno con merge(), asigno las fases del ciclo de
-#              vida según DAMA DMBOK y genero las visualizaciones.
-# ============================================================
 
 # Importo las librerías que voy a necesitar
 import pandas as pd           # para trabajar con tablas de datos
