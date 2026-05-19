@@ -1,0 +1,51 @@
+cliente_id,nombre_organizacion,tipo_org,pais,sector,criticidad
+CLI-0001,Alvarado-Laureano,Universidad,Estados Unidos,Manufactura,ALTA
+CLI-0002,Grupo Chávez y Canales,Universidad,Estados Unidos,Telecomunicaciones,CRÍTICA
+CLI-0003,Villanueva-Pichardo,Institución Financiera,Canadá,Manufactura,MEDIA
+CLI-0004,Anguiano A.C.,Organización Militar,Estados Unidos,Manufactura,MEDIA
+CLI-0005,Grupo Santiago y Zarate,Organización Militar,Estados Unidos,Salud,MEDIA
+CLI-0006,Valentín S.A.,Gobierno Estatal,Estados Unidos,Retail,ALTA
+CLI-0007,"Garay, Rangel y Villalpando",Empresa Privada,Alemania,Finanzas,ALTA
+CLI-0008,"Proyectos Aguayo, Crespo y Pichardo",Empresa de Tecnología,Estados Unidos,Salud,MEDIA
+CLI-0009,Ledesma-Cortés S.A.,Institución Financiera,Estados Unidos,Telecomunicaciones,CRÍTICA
+CLI-0010,Canales-Caballero S.C.,Gobierno Federal,Estados Unidos,Defensa,ALTA
+CLI-0011,Muñoz-Montañez,Gobierno Estatal,Estados Unidos,Tecnología,CRÍTICA
+CLI-0012,"Proyectos Armas, Rico y Terán",Empresa de Tecnología,Estados Unidos,Manufactura,CRÍTICA
+CLI-0013,Ochoa-Berríos,Organización Militar,Estados Unidos,Tecnología,CRÍTICA
+CLI-0014,"Proyectos Nájera, Vélez y Espinosa",Empresa de Tecnología,Estados Unidos,Educación,CRÍTICA
+CLI-0015,Armenta-Gil,Empresa de Tecnología,Estados Unidos,Defensa,MEDIA
+CLI-0016,"Despacho Gonzales, Campos y Olivares",Gobierno Estatal,Estados Unidos,Tecnología,ALTA
+CLI-0017,"Club Nava, Curiel y Nevárez",Universidad,Estados Unidos,Telecomunicaciones,ALTA
+CLI-0018,Fuentes-Jaramillo e Hijos,Organización Militar,Canadá,Salud,ALTA
+CLI-0019,de la Torre-Tejeda,Gobierno Estatal,Francia,Salud,ALTA
+CLI-0020,Grupo Ríos y Ojeda,Gobierno Federal,Australia,Retail,ALTA
+CLI-0021,"Laboratorios Valdés, Gaona y Meléndez",Institución Financiera,Estados Unidos,Retail,BAJA
+CLI-0022,Girón y Asociados,Gobierno Federal,Australia,Manufactura,CRÍTICA
+CLI-0023,Mata S.C.,Empresa Privada,Estados Unidos,Manufactura,MEDIA
+CLI-0024,"Despacho Galarza, Valverde y Mascareñas",Gobierno Federal,Estados Unidos,Gobierno,ALTA
+CLI-0025,Laboratorios Sanabria y Ortiz,Gobierno Federal,Estados Unidos,Telecomunicaciones,MEDIA
+CLI-0026,Collazo y Jaimes S.A.,Empresa de Tecnología,Reino Unido,Energía,CRÍTICA
+CLI-0027,Laboratorios Valentín y Tijerina,Universidad,Estados Unidos,Salud,MEDIA
+CLI-0028,"Laboratorios Viera, Porras y Vergara",Organización Militar,Estados Unidos,Finanzas,ALTA
+CLI-0029,"Nájera, Gaona y Chavarría",Institución Financiera,Francia,Finanzas,MEDIA
+CLI-0030,Bustos y Arreola y Asociados,Gobierno Estatal,Estados Unidos,Telecomunicaciones,CRÍTICA
+CLI-0031,Corral-Crespo,Universidad,Estados Unidos,Gobierno,CRÍTICA
+CLI-0032,"Ybarra, Barela y Olmos",Institución Financiera,Reino Unido,Telecomunicaciones,ALTA
+CLI-0033,"Ybarra, Rocha y Tafoya",Institución Financiera,Reino Unido,Tecnología,BAJA
+CLI-0034,"Industrias Alba, Carrero y Terán",Universidad,Canadá,Tecnología,BAJA
+CLI-0035,"Proyectos Molina, Carrasco y Lozada",Universidad,Estados Unidos,Defensa,MEDIA
+CLI-0036,"Cotto, Rendón y Acosta",Organización Militar,Estados Unidos,Tecnología,MEDIA
+CLI-0037,"Industrias Domínguez, Sarabia y Caraballo",Empresa Privada,Estados Unidos,Retail,ALTA
+CLI-0038,"Proyectos Sarabia, Farías y Corral",Gobierno Federal,Estados Unidos,Retail,MEDIA
+CLI-0039,Cuellar-Tirado y Asociados,Gobierno Federal,Estados Unidos,Retail,ALTA
+CLI-0040,Zamudio S.A. de C.V.,Organización Militar,Estados Unidos,Retail,ALTA
+CLI-0041,Almaraz y Carrasco S.A. de C.V.,Gobierno Federal,Alemania,Manufactura,BAJA
+CLI-0042,"Grupo Baeza, Guajardo y Valverde",Organización Militar,Reino Unido,Manufactura,MEDIA
+CLI-0043,Briones-Ruelas,Gobierno Federal,Israel,Gobierno,BAJA
+CLI-0044,Tejada-Castillo,Organización Militar,Canadá,Defensa,MEDIA
+CLI-0045,Laboratorios Roldán-Ulloa,Institución Financiera,Israel,Manufactura,CRÍTICA
+CLI-0046,Corporacin Suárez-Zepeda,Gobierno Federal,Estados Unidos,Defensa,ALTA
+CLI-0047,"Galarza, Tirado y Fernández",Universidad,Canadá,Energía,MEDIA
+CLI-0048,"Club Niño, Quezada y Sierra",Organización Militar,Estados Unidos,Salud,ALTA
+CLI-0049,Casárez y Gutiérrez S.A.,Organización Militar,Reino Unido,Telecomunicaciones,MEDIA
+CLI-0050,Mireles-Alonso,Empresa Privada,Estados Unidos,Educación,ALTA

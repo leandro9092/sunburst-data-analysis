@@ -1,0 +1,192 @@
+evento_id,fase_ciclo_vida,fecha,descripcion,area_dama
+EVT-0006,Mantenimiento,2020-02-17,Actualización Sistema,Data Storage & Operations
+EVT-0007,Uso,2020-11-09,Ping de Rutina,Data Security & Privacy
+EVT-0008,Uso,2020-07-08,Ping de Rutina,Data Security & Privacy
+EVT-0009,Eliminación,2020-10-09,Acceso no Autorizado,Document & Content Management
+EVT-0010,Uso,2020-07-15,Ping de Rutina,Data Security & Privacy
+EVT-0015,Uso,2020-02-14,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0016,Mantenimiento,2020-08-26,Actualización Sistema,Data Storage & Operations
+EVT-0017,Uso,2020-01-08,Ping de Rutina,Data Security & Privacy
+EVT-0018,Eliminación,2020-12-18,Acceso no Autorizado,Document & Content Management
+EVT-0019,Eliminación,2020-04-08,Acceso no Autorizado,Document & Content Management
+EVT-0020,Uso,2020-11-01,Ping de Rutina,Data Security & Privacy
+EVT-0021,Uso,2020-06-23,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0022,Uso,2020-10-17,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0023,Eliminación,2020-07-23,Acceso no Autorizado,Document & Content Management
+EVT-0024,Uso,2020-03-26,Ping de Rutina,Data Security & Privacy
+EVT-0025,Eliminación,2020-11-18,Acceso no Autorizado,Document & Content Management
+EVT-0026,Uso,2020-07-02,Ping de Rutina,Data Security & Privacy
+EVT-0027,Mantenimiento,2020-12-25,Actualización Sistema,Data Storage & Operations
+EVT-0028,Mantenimiento,2020-01-05,Actualización Sistema,Data Storage & Operations
+EVT-0029,Uso,2020-03-23,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0030,Uso,2020-09-08,Ping de Rutina,Data Security & Privacy
+EVT-0031,Eliminación,2020-06-17,Acceso no Autorizado,Document & Content Management
+EVT-0032,Eliminación,2020-06-29,Acceso no Autorizado,Document & Content Management
+EVT-0033,Uso,2020-08-25,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0034,Eliminación,2020-08-22,Acceso no Autorizado,Document & Content Management
+EVT-0035,Eliminación,2020-11-03,Acceso no Autorizado,Document & Content Management
+EVT-0036,Eliminación,2020-09-22,Acceso no Autorizado,Document & Content Management
+EVT-0037,Mantenimiento,2020-03-08,Actualización Sistema,Data Storage & Operations
+EVT-0038,Mantenimiento,2020-05-20,Actualización Sistema,Data Storage & Operations
+EVT-0039,Uso,2020-08-25,Ping de Rutina,Data Security & Privacy
+EVT-0040,Uso,2020-11-05,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0041,Uso,2020-03-11,Ping de Rutina,Data Security & Privacy
+EVT-0042,Uso,2020-09-14,Ping de Rutina,Data Security & Privacy
+EVT-0043,Uso,2020-02-08,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0044,Uso,2020-01-13,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0045,Uso,2020-05-21,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0046,Uso,2020-08-23,Ping de Rutina,Data Security & Privacy
+EVT-0047,Mantenimiento,2020-11-27,Actualización Sistema,Data Storage & Operations
+EVT-0048,Uso,2020-08-19,Ping de Rutina,Data Security & Privacy
+EVT-0049,Uso,2020-02-09,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0050,Eliminación,2020-07-18,Acceso no Autorizado,Document & Content Management
+EVT-0051,Uso,2035-05-17,Ping de Rutina,Data Security & Privacy
+EVT-0052,Uso,2020-11-04,Ping de Rutina,Data Security & Privacy
+EVT-0053,Uso,2020-05-23,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0054,Eliminación,2020-09-28,Acceso no Autorizado,Document & Content Management
+EVT-0055,Mantenimiento,2020-03-19,Actualización Sistema,Data Storage & Operations
+EVT-0056,Mantenimiento,2020-07-30,Actualización Sistema,Data Storage & Operations
+EVT-0057,Mantenimiento,2020-08-03,Actualización Sistema,Data Storage & Operations
+EVT-0058,Eliminación,2020-03-25,Acceso no Autorizado,Document & Content Management
+EVT-0059,Uso,2020-08-09,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0060,Mantenimiento,2020-07-09,Actualización Sistema,Data Storage & Operations
+EVT-0061,Mantenimiento,2020-10-17,Actualización Sistema,Data Storage & Operations
+EVT-0062,Eliminación,2020-12-05,Acceso no Autorizado,Document & Content Management
+EVT-0063,Mantenimiento,2020-08-09,Actualización Sistema,Data Storage & Operations
+EVT-0064,Mantenimiento,2020-04-25,Actualización Sistema,Data Storage & Operations
+EVT-0065,Uso,2020-10-15,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0066,Eliminación,2020-08-24,Acceso no Autorizado,Document & Content Management
+EVT-0067,Mantenimiento,2020-05-29,Actualización Sistema,Data Storage & Operations
+EVT-0068,Mantenimiento,2020-12-15,Actualización Sistema,Data Storage & Operations
+EVT-0069,Uso,2020-04-24,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0070,Mantenimiento,2020-10-17,Actualización Sistema,Data Storage & Operations
+EVT-0071,Uso,2020-09-12,Ping de Rutina,Data Security & Privacy
+EVT-0072,Uso,2020-03-24,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0073,Uso,2020-11-04,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0074,Uso,2020-02-09,Ping de Rutina,Data Security & Privacy
+EVT-0075,Uso,2020-11-29,Ping de Rutina,Data Security & Privacy
+EVT-0076,Mantenimiento,2020-04-29,Actualización Sistema,Data Storage & Operations
+EVT-0077,Uso,2020-05-08,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0078,Uso,2020-01-27,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0079,Eliminación,2020-08-02,Acceso no Autorizado,Document & Content Management
+EVT-0080,Uso,2020-05-31,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0081,Uso,2020-05-26,Ping de Rutina,Data Security & Privacy
+EVT-0082,Eliminación,2020-08-16,Acceso no Autorizado,Document & Content Management
+EVT-0083,Mantenimiento,2020-01-08,Actualización Sistema,Data Storage & Operations
+EVT-0084,Uso,2020-04-03,Ping de Rutina,Data Security & Privacy
+EVT-0085,Eliminación,2020-10-31,Acceso no Autorizado,Document & Content Management
+EVT-0086,Uso,2020-06-28,Ping de Rutina,Data Security & Privacy
+EVT-0087,Uso,2020-08-29,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0088,Uso,2020-10-02,Ping de Rutina,Data Security & Privacy
+EVT-0089,Eliminación,2020-03-10,Acceso no Autorizado,Document & Content Management
+EVT-0090,Uso,2020-05-07,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0091,Eliminación,2020-10-26,Acceso no Autorizado,Document & Content Management
+EVT-0092,Mantenimiento,2020-01-11,Actualización Sistema,Data Storage & Operations
+EVT-0093,Uso,2020-03-26,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0094,Eliminación,2020-10-28,Acceso no Autorizado,Document & Content Management
+EVT-0095,Uso,2020-03-13,Ping de Rutina,Data Security & Privacy
+EVT-0096,Eliminación,2020-04-28,Acceso no Autorizado,Document & Content Management
+EVT-0097,Mantenimiento,2020-01-14,Actualización Sistema,Data Storage & Operations
+EVT-0098,Mantenimiento,2020-04-17,Actualización Sistema,Data Storage & Operations
+EVT-0099,Uso,2020-03-20,Ping de Rutina,Data Security & Privacy
+EVT-0100,Eliminación,2020-11-10,Acceso no Autorizado,Document & Content Management
+EVT-0101,Mantenimiento,2020-03-10,Actualización Sistema,Data Storage & Operations
+EVT-0102,Uso,2020-12-06,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0103,Eliminación,2020-12-06,Acceso no Autorizado,Document & Content Management
+EVT-0104,Mantenimiento,2020-04-30,Actualización Sistema,Data Storage & Operations
+EVT-0105,Uso,2020-01-18,Ping de Rutina,Data Security & Privacy
+EVT-0106,Mantenimiento,2020-04-25,Actualización Sistema,Data Storage & Operations
+EVT-0107,Uso,2020-12-23,Ping de Rutina,Data Security & Privacy
+EVT-0108,Uso,2020-01-14,Ping de Rutina,Data Security & Privacy
+EVT-0109,Uso,2020-08-09,Ping de Rutina,Data Security & Privacy
+EVT-0110,Eliminación,2020-10-02,Acceso no Autorizado,Document & Content Management
+EVT-0111,Mantenimiento,2020-04-29,Actualización Sistema,Data Storage & Operations
+EVT-0112,Uso,2020-01-21,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0113,Mantenimiento,2020-05-13,Actualización Sistema,Data Storage & Operations
+EVT-0114,Mantenimiento,2020-02-21,Actualización Sistema,Data Storage & Operations
+EVT-0115,Eliminación,2020-12-29,Acceso no Autorizado,Document & Content Management
+EVT-0116,Uso,2020-04-04,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0117,Uso,2020-10-26,Ping de Rutina,Data Security & Privacy
+EVT-0118,Uso,2020-01-01,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0119,Mantenimiento,2020-02-06,Actualización Sistema,Data Storage & Operations
+EVT-0120,Uso,2020-12-30,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0121,Uso,2020-07-02,Ping de Rutina,Data Security & Privacy
+EVT-0122,Uso,2020-05-28,Ping de Rutina,Data Security & Privacy
+EVT-0123,Uso,2020-10-20,Ping de Rutina,Data Security & Privacy
+EVT-0124,Uso,2020-12-22,Ping de Rutina,Data Security & Privacy
+EVT-0125,Uso,2020-10-05,Ping de Rutina,Data Security & Privacy
+EVT-0126,Eliminación,2020-01-06,Acceso no Autorizado,Document & Content Management
+EVT-0127,Mantenimiento,2020-05-14,Actualización Sistema,Data Storage & Operations
+EVT-0128,Eliminación,2020-09-23,Acceso no Autorizado,Document & Content Management
+EVT-0129,Eliminación,2020-12-08,Acceso no Autorizado,Document & Content Management
+EVT-0130,Uso,2020-10-10,Ping de Rutina,Data Security & Privacy
+EVT-0131,Uso,2020-02-12,Ping de Rutina,Data Security & Privacy
+EVT-0132,Uso,2020-12-02,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0133,Uso,2020-04-30,Ping de Rutina,Data Security & Privacy
+EVT-0134,Mantenimiento,2020-09-05,Actualización Sistema,Data Storage & Operations
+EVT-0135,Uso,2020-03-31,Ping de Rutina,Data Security & Privacy
+EVT-0136,Uso,2020-06-06,Ping de Rutina,Data Security & Privacy
+EVT-0137,Mantenimiento,2020-12-11,Actualización Sistema,Data Storage & Operations
+EVT-0138,Eliminación,2020-07-02,Acceso no Autorizado,Document & Content Management
+EVT-0139,Eliminación,2020-05-07,Acceso no Autorizado,Document & Content Management
+EVT-0140,Mantenimiento,2020-09-29,Actualización Sistema,Data Storage & Operations
+EVT-0141,Eliminación,2020-05-19,Acceso no Autorizado,Document & Content Management
+EVT-0142,Mantenimiento,2020-01-10,Actualización Sistema,Data Storage & Operations
+EVT-0143,Uso,2020-12-12,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0144,Uso,2020-08-30,Ping de Rutina,Data Security & Privacy
+EVT-0145,Mantenimiento,2020-04-30,Actualización Sistema,Data Storage & Operations
+EVT-0146,Uso,2020-05-08,Ping de Rutina,Data Security & Privacy
+EVT-0147,Uso,2020-03-27,Ping de Rutina,Data Security & Privacy
+EVT-0148,Eliminación,2020-03-30,Acceso no Autorizado,Document & Content Management
+EVT-0149,Mantenimiento,2020-03-21,Actualización Sistema,Data Storage & Operations
+EVT-0150,Uso,2020-10-09,Ping de Rutina,Data Security & Privacy
+EVT-0151,Uso,2020-04-28,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0152,Uso,2020-05-14,Ping de Rutina,Data Security & Privacy
+EVT-0153,Uso,2020-04-19,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0154,Mantenimiento,2020-10-03,Actualización Sistema,Data Storage & Operations
+EVT-0155,Uso,2020-09-05,Ping de Rutina,Data Security & Privacy
+EVT-0156,Eliminación,2020-01-25,Acceso no Autorizado,Document & Content Management
+EVT-0157,Eliminación,2020-06-01,Acceso no Autorizado,Document & Content Management
+EVT-0158,Uso,2020-06-02,Ping de Rutina,Data Security & Privacy
+EVT-0159,Mantenimiento,2020-12-04,Actualización Sistema,Data Storage & Operations
+EVT-0160,Eliminación,2020-09-30,Acceso no Autorizado,Document & Content Management
+EVT-0161,Eliminación,2020-05-29,Acceso no Autorizado,Document & Content Management
+EVT-0162,Uso,2020-04-06,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0163,Uso,2020-07-06,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0164,Mantenimiento,2020-12-10,Actualización Sistema,Data Storage & Operations
+EVT-0165,Mantenimiento,2020-12-29,Actualización Sistema,Data Storage & Operations
+EVT-0166,Eliminación,2020-09-02,Acceso no Autorizado,Document & Content Management
+EVT-0167,Uso,2020-03-30,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0168,Uso,2020-06-08,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0169,Uso,2020-06-21,Ping de Rutina,Data Security & Privacy
+EVT-0170,Uso,2020-10-18,Ping de Rutina,Data Security & Privacy
+EVT-0171,Eliminación,2020-08-01,Acceso no Autorizado,Document & Content Management
+EVT-0172,Mantenimiento,2020-06-07,Actualización Sistema,Data Storage & Operations
+EVT-0173,Eliminación,2020-09-04,Acceso no Autorizado,Document & Content Management
+EVT-0174,Mantenimiento,2020-09-23,Actualización Sistema,Data Storage & Operations
+EVT-0175,Uso,2020-06-09,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0176,Eliminación,2020-09-19,Acceso no Autorizado,Document & Content Management
+EVT-0177,Eliminación,2020-01-27,Acceso no Autorizado,Document & Content Management
+EVT-0178,Uso,2020-09-15,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0179,Eliminación,2020-11-21,Acceso no Autorizado,Document & Content Management
+EVT-0180,Mantenimiento,2020-04-30,Actualización Sistema,Data Storage & Operations
+EVT-0181,Uso,2020-02-02,Ping de Rutina,Data Security & Privacy
+EVT-0182,Uso,2020-02-14,Ping de Rutina,Data Security & Privacy
+EVT-0183,Mantenimiento,2020-04-02,Actualización Sistema,Data Storage & Operations
+EVT-0184,Uso,2020-10-12,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0185,Mantenimiento,2020-01-09,Actualización Sistema,Data Storage & Operations
+EVT-0186,Uso,2020-07-19,Ping de Rutina,Data Security & Privacy
+EVT-0187,Uso,2020-01-13,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0188,Mantenimiento,2020-08-04,Actualización Sistema,Data Storage & Operations
+EVT-0189,Mantenimiento,2020-10-30,Actualización Sistema,Data Storage & Operations
+EVT-0190,Mantenimiento,2020-02-02,Actualización Sistema,Data Storage & Operations
+EVT-0191,Uso,2020-01-11,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0192,Mantenimiento,2020-10-12,Actualización Sistema,Data Storage & Operations
+EVT-0193,Uso,2020-11-26,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0194,Eliminación,2020-06-24,Acceso no Autorizado,Document & Content Management
+EVT-0195,Uso,2020-05-15,Ping de Rutina,Data Security & Privacy
+EVT-0196,Uso,2020-07-07,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0197,Uso,2020-02-29,Ping de Rutina,Data Security & Privacy
+EVT-0198,Mantenimiento,2020-10-30,Actualización Sistema,Data Storage & Operations
+EVT-0199,Uso,2020-07-14,Tráfico de Red Anómalo,Data Security & Privacy
+EVT-0200,Uso,2020-03-18,Ping de Rutina,Data Security & Privacy

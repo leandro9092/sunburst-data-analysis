@@ -1,0 +1,5 @@
+tabla,columna,metrica,valor_actual,umbral,estado
+eventos_seguridad,tipo_evento,Completitud,98.0%,100%,Fallo
+eventos_seguridad,timestamp,Exactitud,99.5%,100%,Fallo
+eventos_seguridad,severidad,Consistencia,100.0%,100%,Aprobado
+eventos_seguridad,instalacion_id,Integridad Referencial,97.5%,100%,Fallo

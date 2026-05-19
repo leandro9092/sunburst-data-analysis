@@ -1,0 +1,201 @@
+evento_id,instalacion_id,timestamp,tipo_evento,severidad,es_anomalo
+EVT-0001,INST-9999,2020-11-09,Actualización Sistema,Crítica,False
+EVT-0002,INST-9999,2020-11-07,Tráfico de Red Anómalo,Alta,False
+EVT-0003,INST-9999,2020-04-15,Actualización Sistema,Crítica,False
+EVT-0004,INST-9999,2020-08-20,Tráfico de Red Anómalo,Baja,False
+EVT-0005,INST-9999,2020-03-17,Actualización Sistema,Media,False
+EVT-0006,INS-0083,2020-02-17,Actualización Sistema,Alta,False
+EVT-0007,INS-0075,2020-11-09,Ping de Rutina,Baja,False
+EVT-0008,INS-0100,2020-07-08,Ping de Rutina,Crítica,False
+EVT-0009,INS-0003,2020-10-09,Acceso no Autorizado,Baja,False
+EVT-0010,INS-0002,2020-07-15,Ping de Rutina,Crítica,False
+EVT-0011,INS-0030,2020-12-20,,Media,False
+EVT-0012,INS-0064,2020-03-13,,Baja,False
+EVT-0013,INS-0033,2020-05-01,,Media,False
+EVT-0014,INS-0022,2020-05-12,,Crítica,True
+EVT-0015,INS-0089,2020-02-14,Tráfico de Red Anómalo,Alta,True
+EVT-0016,INS-0059,2020-08-26,Actualización Sistema,Media,False
+EVT-0017,INS-0092,2020-01-08,Ping de Rutina,Crítica,False
+EVT-0018,INS-0015,2020-12-18,Acceso no Autorizado,Media,False
+EVT-0019,INS-0047,2020-04-08,Acceso no Autorizado,Alta,False
+EVT-0020,INS-0055,2020-11-01,Ping de Rutina,Crítica,False
+EVT-0021,INS-0003,2020-06-23,Tráfico de Red Anómalo,Alta,False
+EVT-0022,INS-0007,2020-10-17,Tráfico de Red Anómalo,Baja,False
+EVT-0023,INS-0039,2020-07-23,Acceso no Autorizado,Crítica,False
+EVT-0024,INS-0089,2020-03-26,Ping de Rutina,Media,False
+EVT-0025,INS-0009,2020-11-18,Acceso no Autorizado,Baja,False
+EVT-0026,INS-0002,2020-07-02,Ping de Rutina,Crítica,False
+EVT-0027,INS-0060,2020-12-25,Actualización Sistema,Crítica,False
+EVT-0028,INS-0008,2020-01-05,Actualización Sistema,Alta,False
+EVT-0029,INS-0078,2020-03-23,Tráfico de Red Anómalo,Crítica,False
+EVT-0030,INS-0050,2020-09-08,Ping de Rutina,Crítica,False
+EVT-0031,INS-0002,2020-06-17,Acceso no Autorizado,Media,False
+EVT-0032,INS-0054,2020-06-29,Acceso no Autorizado,Crítica,False
+EVT-0033,INS-0054,2020-08-25,Tráfico de Red Anómalo,Alta,True
+EVT-0034,INS-0018,2020-08-22,Acceso no Autorizado,Crítica,False
+EVT-0035,INS-0034,2020-11-03,Acceso no Autorizado,Media,False
+EVT-0036,INS-0100,2020-09-22,Acceso no Autorizado,Alta,False
+EVT-0037,INS-0048,2020-03-08,Actualización Sistema,Crítica,False
+EVT-0038,INS-0078,2020-05-20,Actualización Sistema,Crítica,False
+EVT-0039,INS-0062,2020-08-25,Ping de Rutina,Baja,False
+EVT-0040,INS-0080,2020-11-05,Tráfico de Red Anómalo,Media,False
+EVT-0041,INS-0053,2020-03-11,Ping de Rutina,Media,False
+EVT-0042,INS-0089,2020-09-14,Ping de Rutina,Crítica,False
+EVT-0043,INS-0041,2020-02-08,Tráfico de Red Anómalo,Alta,True
+EVT-0044,INS-0045,2020-01-13,Tráfico de Red Anómalo,Baja,False
+EVT-0045,INS-0071,2020-05-21,Tráfico de Red Anómalo,Crítica,False
+EVT-0046,INS-0001,2020-08-23,Ping de Rutina,Crítica,False
+EVT-0047,INS-0088,2020-11-27,Actualización Sistema,Alta,False
+EVT-0048,INS-0081,2020-08-19,Ping de Rutina,Alta,False
+EVT-0049,INS-0035,2020-02-09,Tráfico de Red Anómalo,Alta,True
+EVT-0050,INS-0005,2020-07-18,Acceso no Autorizado,Alta,False
+EVT-0051,INS-0041,2035-05-17,Ping de Rutina,Alta,False
+EVT-0052,INS-0073,2020-11-04,Ping de Rutina,Crítica,False
+EVT-0053,INS-0034,2020-05-23,Tráfico de Red Anómalo,Crítica,False
+EVT-0054,INS-0023,2020-09-28,Acceso no Autorizado,Crítica,False
+EVT-0055,INS-0037,2020-03-19,Actualización Sistema,Crítica,False
+EVT-0056,INS-0086,2020-07-30,Actualización Sistema,Alta,False
+EVT-0057,INS-0065,2020-08-03,Actualización Sistema,Baja,False
+EVT-0058,INS-0047,2020-03-25,Acceso no Autorizado,Alta,False
+EVT-0059,INS-0001,2020-08-09,Tráfico de Red Anómalo,Media,False
+EVT-0060,INS-0014,2020-07-09,Actualización Sistema,Alta,False
+EVT-0061,INS-0009,2020-10-17,Actualización Sistema,Alta,False
+EVT-0062,INS-0090,2020-12-05,Acceso no Autorizado,Crítica,False
+EVT-0063,INS-0077,2020-08-09,Actualización Sistema,Alta,False
+EVT-0064,INS-0096,2020-04-25,Actualización Sistema,Baja,False
+EVT-0065,INS-0052,2020-10-15,Tráfico de Red Anómalo,Crítica,True
+EVT-0066,INS-0004,2020-08-24,Acceso no Autorizado,Baja,False
+EVT-0067,INS-0023,2020-05-29,Actualización Sistema,Baja,False
+EVT-0068,INS-0015,2020-12-15,Actualización Sistema,Baja,False
+EVT-0069,INS-0036,2020-04-24,Tráfico de Red Anómalo,Crítica,True
+EVT-0070,INS-0071,2020-10-17,Actualización Sistema,Alta,False
+EVT-0071,INS-0086,2020-09-12,Ping de Rutina,Media,False
+EVT-0072,INS-0042,2020-03-24,Tráfico de Red Anómalo,Media,False
+EVT-0073,INS-0057,2020-11-04,Tráfico de Red Anómalo,Media,False
+EVT-0074,INS-0028,2020-02-09,Ping de Rutina,Crítica,False
+EVT-0075,INS-0044,2020-11-29,Ping de Rutina,Media,False
+EVT-0076,INS-0062,2020-04-29,Actualización Sistema,Crítica,False
+EVT-0077,INS-0092,2020-05-08,Tráfico de Red Anómalo,Alta,True
+EVT-0078,INS-0062,2020-01-27,Tráfico de Red Anómalo,Baja,False
+EVT-0079,INS-0027,2020-08-02,Acceso no Autorizado,Baja,False
+EVT-0080,INS-0077,2020-05-31,Tráfico de Red Anómalo,Alta,False
+EVT-0081,INS-0070,2020-05-26,Ping de Rutina,Alta,False
+EVT-0082,INS-0009,2020-08-16,Acceso no Autorizado,Baja,False
+EVT-0083,INS-0097,2020-01-08,Actualización Sistema,Media,False
+EVT-0084,INS-0044,2020-04-03,Ping de Rutina,Alta,False
+EVT-0085,INS-0059,2020-10-31,Acceso no Autorizado,Crítica,False
+EVT-0086,INS-0096,2020-06-28,Ping de Rutina,Baja,False
+EVT-0087,INS-0052,2020-08-29,Tráfico de Red Anómalo,Media,False
+EVT-0088,INS-0058,2020-10-02,Ping de Rutina,Crítica,False
+EVT-0089,INS-0039,2020-03-10,Acceso no Autorizado,Alta,False
+EVT-0090,INS-0056,2020-05-07,Tráfico de Red Anómalo,Alta,True
+EVT-0091,INS-0002,2020-10-26,Acceso no Autorizado,Crítica,False
+EVT-0092,INS-0054,2020-01-11,Actualización Sistema,Baja,False
+EVT-0093,INS-0096,2020-03-26,Tráfico de Red Anómalo,Baja,False
+EVT-0094,INS-0019,2020-10-28,Acceso no Autorizado,Media,False
+EVT-0095,INS-0053,2020-03-13,Ping de Rutina,Media,False
+EVT-0096,INS-0032,2020-04-28,Acceso no Autorizado,Crítica,False
+EVT-0097,INS-0068,2020-01-14,Actualización Sistema,Alta,False
+EVT-0098,INS-0056,2020-04-17,Actualización Sistema,Baja,False
+EVT-0099,INS-0038,2020-03-20,Ping de Rutina,Baja,False
+EVT-0100,INS-0098,2020-11-10,Acceso no Autorizado,Media,False
+EVT-0101,INS-0011,2020-03-10,Actualización Sistema,Crítica,False
+EVT-0102,INS-0016,2020-12-06,Tráfico de Red Anómalo,Baja,False
+EVT-0103,INS-0059,2020-12-06,Acceso no Autorizado,Crítica,False
+EVT-0104,INS-0093,2020-04-30,Actualización Sistema,Crítica,False
+EVT-0105,INS-0059,2020-01-18,Ping de Rutina,Alta,False
+EVT-0106,INS-0090,2020-04-25,Actualización Sistema,Alta,False
+EVT-0107,INS-0019,2020-12-23,Ping de Rutina,Crítica,False
+EVT-0108,INS-0071,2020-01-14,Ping de Rutina,Baja,False
+EVT-0109,INS-0033,2020-08-09,Ping de Rutina,Crítica,False
+EVT-0110,INS-0039,2020-10-02,Acceso no Autorizado,Crítica,False
+EVT-0111,INS-0001,2020-04-29,Actualización Sistema,Crítica,False
+EVT-0112,INS-0057,2020-01-21,Tráfico de Red Anómalo,Media,False
+EVT-0113,INS-0023,2020-05-13,Actualización Sistema,Media,False
+EVT-0114,INS-0042,2020-02-21,Actualización Sistema,Alta,False
+EVT-0115,INS-0016,2020-12-29,Acceso no Autorizado,Crítica,False
+EVT-0116,INS-0060,2020-04-04,Tráfico de Red Anómalo,Media,False
+EVT-0117,INS-0001,2020-10-26,Ping de Rutina,Media,False
+EVT-0118,INS-0012,2020-01-01,Tráfico de Red Anómalo,Baja,False
+EVT-0119,INS-0032,2020-02-06,Actualización Sistema,Alta,False
+EVT-0120,INS-0009,2020-12-30,Tráfico de Red Anómalo,Alta,True
+EVT-0121,INS-0019,2020-07-02,Ping de Rutina,Crítica,False
+EVT-0122,INS-0003,2020-05-28,Ping de Rutina,Crítica,False
+EVT-0123,INS-0054,2020-10-20,Ping de Rutina,Baja,False
+EVT-0124,INS-0024,2020-12-22,Ping de Rutina,Alta,False
+EVT-0125,INS-0072,2020-10-05,Ping de Rutina,Media,False
+EVT-0126,INS-0084,2020-01-06,Acceso no Autorizado,Alta,False
+EVT-0127,INS-0089,2020-05-14,Actualización Sistema,Baja,False
+EVT-0128,INS-0093,2020-09-23,Acceso no Autorizado,Crítica,False
+EVT-0129,INS-0082,2020-12-08,Acceso no Autorizado,Media,False
+EVT-0130,INS-0035,2020-10-10,Ping de Rutina,Baja,False
+EVT-0131,INS-0041,2020-02-12,Ping de Rutina,Baja,False
+EVT-0132,INS-0068,2020-12-02,Tráfico de Red Anómalo,Media,False
+EVT-0133,INS-0021,2020-04-30,Ping de Rutina,Crítica,False
+EVT-0134,INS-0008,2020-09-05,Actualización Sistema,Alta,False
+EVT-0135,INS-0017,2020-03-31,Ping de Rutina,Baja,False
+EVT-0136,INS-0048,2020-06-06,Ping de Rutina,Alta,False
+EVT-0137,INS-0086,2020-12-11,Actualización Sistema,Media,False
+EVT-0138,INS-0030,2020-07-02,Acceso no Autorizado,Media,False
+EVT-0139,INS-0051,2020-05-07,Acceso no Autorizado,Crítica,False
+EVT-0140,INS-0027,2020-09-29,Actualización Sistema,Media,False
+EVT-0141,INS-0021,2020-05-19,Acceso no Autorizado,Baja,False
+EVT-0142,INS-0028,2020-01-10,Actualización Sistema,Crítica,False
+EVT-0143,INS-0097,2020-12-12,Tráfico de Red Anómalo,Crítica,False
+EVT-0144,INS-0061,2020-08-30,Ping de Rutina,Alta,False
+EVT-0145,INS-0004,2020-04-30,Actualización Sistema,Crítica,False
+EVT-0146,INS-0049,2020-05-08,Ping de Rutina,Baja,False
+EVT-0147,INS-0044,2020-03-27,Ping de Rutina,Media,False
+EVT-0148,INS-0093,2020-03-30,Acceso no Autorizado,Baja,False
+EVT-0149,INS-0006,2020-03-21,Actualización Sistema,Crítica,False
+EVT-0150,INS-0037,2020-10-09,Ping de Rutina,Baja,False
+EVT-0151,INS-0046,2020-04-28,Tráfico de Red Anómalo,Alta,True
+EVT-0152,INS-0099,2020-05-14,Ping de Rutina,Baja,False
+EVT-0153,INS-0063,2020-04-19,Tráfico de Red Anómalo,Baja,False
+EVT-0154,INS-0032,2020-10-03,Actualización Sistema,Baja,False
+EVT-0155,INS-0067,2020-09-05,Ping de Rutina,Media,False
+EVT-0156,INS-0025,2020-01-25,Acceso no Autorizado,Alta,False
+EVT-0157,INS-0054,2020-06-01,Acceso no Autorizado,Alta,False
+EVT-0158,INS-0046,2020-06-02,Ping de Rutina,Media,False
+EVT-0159,INS-0032,2020-12-04,Actualización Sistema,Media,False
+EVT-0160,INS-0023,2020-09-30,Acceso no Autorizado,Alta,False
+EVT-0161,INS-0027,2020-05-29,Acceso no Autorizado,Media,False
+EVT-0162,INS-0090,2020-04-06,Tráfico de Red Anómalo,Crítica,False
+EVT-0163,INS-0033,2020-07-06,Tráfico de Red Anómalo,Alta,True
+EVT-0164,INS-0048,2020-12-10,Actualización Sistema,Baja,False
+EVT-0165,INS-0042,2020-12-29,Actualización Sistema,Media,False
+EVT-0166,INS-0099,2020-09-02,Acceso no Autorizado,Baja,False
+EVT-0167,INS-0024,2020-03-30,Tráfico de Red Anómalo,Crítica,True
+EVT-0168,INS-0007,2020-06-08,Tráfico de Red Anómalo,Crítica,True
+EVT-0169,INS-0045,2020-06-21,Ping de Rutina,Baja,False
+EVT-0170,INS-0008,2020-10-18,Ping de Rutina,Media,False
+EVT-0171,INS-0016,2020-08-01,Acceso no Autorizado,Crítica,False
+EVT-0172,INS-0087,2020-06-07,Actualización Sistema,Crítica,False
+EVT-0173,INS-0098,2020-09-04,Acceso no Autorizado,Crítica,False
+EVT-0174,INS-0087,2020-09-23,Actualización Sistema,Media,False
+EVT-0175,INS-0051,2020-06-09,Tráfico de Red Anómalo,Media,False
+EVT-0176,INS-0063,2020-09-19,Acceso no Autorizado,Baja,False
+EVT-0177,INS-0022,2020-01-27,Acceso no Autorizado,Media,False
+EVT-0178,INS-0086,2020-09-15,Tráfico de Red Anómalo,Crítica,True
+EVT-0179,INS-0042,2020-11-21,Acceso no Autorizado,Alta,False
+EVT-0180,INS-0054,2020-04-30,Actualización Sistema,Crítica,False
+EVT-0181,INS-0097,2020-02-02,Ping de Rutina,Baja,False
+EVT-0182,INS-0060,2020-02-14,Ping de Rutina,Crítica,False
+EVT-0183,INS-0005,2020-04-02,Actualización Sistema,Crítica,False
+EVT-0184,INS-0006,2020-10-12,Tráfico de Red Anómalo,Crítica,False
+EVT-0185,INS-0094,2020-01-09,Actualización Sistema,Alta,False
+EVT-0186,INS-0055,2020-07-19,Ping de Rutina,Crítica,False
+EVT-0187,INS-0016,2020-01-13,Tráfico de Red Anómalo,Media,False
+EVT-0188,INS-0030,2020-08-04,Actualización Sistema,Baja,False
+EVT-0189,INS-0063,2020-10-30,Actualización Sistema,Crítica,False
+EVT-0190,INS-0058,2020-02-02,Actualización Sistema,Media,False
+EVT-0191,INS-0090,2020-01-11,Tráfico de Red Anómalo,Media,False
+EVT-0192,INS-0023,2020-10-12,Actualización Sistema,Baja,False
+EVT-0193,INS-0012,2020-11-26,Tráfico de Red Anómalo,Baja,False
+EVT-0194,INS-0058,2020-06-24,Acceso no Autorizado,Baja,False
+EVT-0195,INS-0034,2020-05-15,Ping de Rutina,Media,False
+EVT-0196,INS-0048,2020-07-07,Tráfico de Red Anómalo,Crítica,True
+EVT-0197,INS-0001,2020-02-29,Ping de Rutina,Baja,False
+EVT-0198,INS-0064,2020-10-30,Actualización Sistema,Baja,False
+EVT-0199,INS-0022,2020-07-14,Tráfico de Red Anómalo,Alta,True
+EVT-0200,INS-0067,2020-03-18,Ping de Rutina,Media,False
